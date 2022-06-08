@@ -1,0 +1,10 @@
+{
+	"title": "Bal dükkanı",
+    "winnieName": "Vinni Puh",
+    "rabbitName": "Tavşan",
+    "pigName": "Pitaçokla",
+    "honey": "{amount, plural, =0{ürün yok} =1{{amount} öğe} =other{{amount} ürünler}}",
+	"manufacturer": "{manufacturer}",
+	"value": "{value}",
+	"production": "satış {date}"
+}
